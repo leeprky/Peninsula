@@ -1,7 +1,7 @@
 # Peninsula
 My Own Personal Theme
 
-![preview]()
+![preview](https://i.imgur.com/axSH5OM.png)
 
 ## How To Install Peninsula?
 
